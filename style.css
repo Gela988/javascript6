@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    gap: 50px;
+}
+.next{
+    margin-top: 300px;
+}
